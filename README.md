@@ -3,3 +3,5 @@
 # tracking〇〇.pyがトラッキングのプログラムです。
 # tracking_green(red)はカラートラッキングのプログラムです。
 # 暗闇下で赤外線カメラを使うときはtracking3.pyを使います。
+
+# 追跡した座標をdata.csvで保存し、graph.pyで散布図にします。
